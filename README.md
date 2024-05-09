@@ -7,7 +7,7 @@
 <h3 align="center">👩‍💻 My Github Stats 👩‍💻</h3>
 <p align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api?username=bukwon&hide_title=true&show_icons=true&include_all_commits=true&disable_animations=true&theme=vue" />
+    <img src="https://github-readme-stats.vercel.app/api?username=bukwon&show_icons=true&theme=transparent" />
   </a>
 </p>
 
