@@ -54,6 +54,24 @@
     <img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white"/>
   </a>
 </p>
+
+<h3 align="center">🫡 About Me</h3>
+
+<p align="center">
+  <a href="https://www.notion.so/Hi-I-m-BuKwon-ed733a401adb46a1a10d1a32b066c029">
+    <img src="https://img.shields.io/badge/-My%20Portfolio-blue?style=for-the-badge" alt="Portfolio Link">
+  </a>
+</p>
+
+<h3 align="center">💻 Project Processing</h3>
+
+<p align="center">
+  <a href="https://github.com/YunTaeHyeon/summerProjectBE">
+    <img src="https://img.shields.io/badge/-%20Project ~ ing-green?style=for-the-badge" alt="Project Link">
+  </a>
+</p>
+
+
 <!--
 **bukwon/bukwon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
