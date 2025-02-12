@@ -57,12 +57,6 @@
 
 <h3 align="center">🫡 About Me</h3>
 
-<p align="center">
-  <a href="https://www.notion.so/Hi-I-m-BuKwon-ed733a401adb46a1a10d1a32b066c029">
-    <img src="https://img.shields.io/badge/-My%20Portfolio-blue?style=for-the-badge" alt="Portfolio Link">
-  </a>
-</p>
-
 <h3 align="center">💻 Project Processing</h3>
 
 <p align="center">
@@ -74,6 +68,12 @@
 
 <!--
 **bukwon/bukwon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+<p align="center">
+  <a href="https://www.notion.so/Hi-I-m-BuKwon-ed733a401adb46a1a10d1a32b066c029">
+    <img src="https://img.shields.io/badge/-My%20Portfolio-blue?style=for-the-badge" alt="Portfolio Link">
+  </a>
+</p>
 
 You can use this section to introduce more personal insights about your work habits, projects, or professional orientation.
 -->
