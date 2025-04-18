@@ -60,7 +60,7 @@
 <h3 align="center">💻 Project Processing</h3>
 
 <p align="center">
-  <a href="https://github.com/YunTaeHyeon/summerProjectBE">
+  <a href="https://github.com/IPSI-AI">
     <img src="https://img.shields.io/badge/-%20Project ~ ing-green?style=for-the-badge" alt="Project Link">
   </a>
 </p>
